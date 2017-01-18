@@ -8,19 +8,21 @@ _A Primer for Women Who Code ATX_
 
 Python is a programming language. In its most basic form, we use variables and functions just like in algebra. If you can think in variables in math, you can follow Python code. You may find yourself looking for references a lot of the time, but the basics really are just math.
 
+We create and use _classes_ and _methods_ to work with Python code (though you certainly can stick to functions and variables, but we're talking object-oriented today!). In all of these cases, we work with _objects_.
+
 ## What do you mean by "object"?
 
 An object in programming is essentially a thing that can have actions done to it. An object can be defined. An object can be used. An object can be assigned to another object (woah, don't go down that rabbit hole yet!).
 
-The main thing you need to know is that everything you see in Python code is an object.
+When we say objects can be defined, we mean that we can assign an object to a variable and use the variable in our code. We can pass objects to other objects through function calls.
 
 ### Deep dive
 
-There are templates (or classes!) for every object baked into Python. There's a generic "class" object, for example, that is used to create every class. Look up the class for an object by calling `.__class__`.
+There are templates called classes for every object; remember that you can create a class yourself. These template classes are baked into Python. There's a generic "class" object, for example, that is used to create every class. Look up the class for an object by calling `.__class__`.
 
 ## Everything is an object
 
-Did you know everything in Python is an object? Yes, every single thing in Python is considered an object, from the string that you input to the class that groups variables and methods/functions together to the classes themselves.
+Did you know everything in Python is an object? Yes, every single thing in Python is considered an object, from the string that you input to the class that groups variables and methods/functions together to the classes themselves. The main thing you need to know is that everything you see in Python code is an object. As you work more with Python code, this idea will start to sink in (slowly, trust me). As long as you remember that everything is an object, you will start to understand what it means when you keep using different bits of code over time.
 
 ## Object-Oriented Thinking
 
@@ -38,7 +40,7 @@ Python and Java approach OOP in different ways. A Python project does not _have_
 
 ## Resources
 
-Code examples for this section can be found in [code for objects](examples/objects.md).
+Code examples for this section can be found in [code for objects](../examples/objects.md).
 
 Check out the following resources for more on object-oriented programming and Python.
 
