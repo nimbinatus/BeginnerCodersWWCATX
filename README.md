@@ -1,3 +1,7 @@
+# BeginnerCodersWWCATX
+
+Hosts the meeting notes for the beginning coder (Python-based) meetup for Women Who Code ATX
+
 This page is hosted with GitHub Pages. Here's a how-ton on using it.
 
 ## Welcome to GitHub Pages
