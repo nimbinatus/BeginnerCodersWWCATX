@@ -38,7 +38,7 @@ Python and Java approach OOP in different ways. A Python project does not _have_
 
 ## Resources
 
-Code examples for this section can be found in [code for objects](code/objects.md).
+Code examples for this section can be found in [code for objects](examples/objects.md).
 
 Check out the following resources for more on object-oriented programming and Python.
 
