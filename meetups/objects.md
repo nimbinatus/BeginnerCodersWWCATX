@@ -1,4 +1,4 @@
-[Back to the index](README.md)
+[Back to the index](/)
 
 # Objects and OOO with Python
 
