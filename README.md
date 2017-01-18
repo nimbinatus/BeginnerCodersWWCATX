@@ -6,8 +6,8 @@ Join our slack channels! Go to [wwc-atx.slack.com](wwc-atx.slack.com) to request
 
 ## Schedule
 
-*October 2016*: Git and GitHub
-*November 2016*: No class
-*December 2016*: No class
-*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)
+*October 2016*: Git and GitHub<br/>
+*November 2016*: No class<br/>
+*December 2016*: No class<br/>
+*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
 *February 2017*: TBD
