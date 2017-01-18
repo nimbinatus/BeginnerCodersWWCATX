@@ -2,5 +2,5 @@
 
 [Return to the notes](meetups/objects.md)
 
-`>>> x = 5
->>> print x.__class__`
+    >>> x = 5
+    >>> print x.__class__
