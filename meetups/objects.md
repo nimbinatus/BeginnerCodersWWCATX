@@ -20,15 +20,15 @@ When we talk about thinking in an object-oriented way, we are talking about how 
 
 ## Advanced users: Python is not like Java
 
-Python and Java approach OOO in different ways. A Python project does not _have_ to use classes.
+Python and Java approach OOP in different ways. A Python project does not _have_ to use classes, as noted above.
 
 ## Resources
 
 Check out the following resources for more on object-oriented programming and Python.
 
-- https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
-- https://python.swaroopch.com/oop.html
-- http://greenteapress.com/thinkpython/html/thinkpython018.html#toc182
-- http://www.diveintopython3.net/your-first-python-program.html#everythingisanobject
-- http://www.diveintopython3.net/your-first-python-program.html#whatsanobject
-- https://learnpythonthehardway.org/book/ex40.html
+- [Jeff Knupp on OOP](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+- [A Byte of Python on OOP](https://python.swaroopch.com/oop.html)
+- [Think Python on OOP](http://greenteapress.com/thinkpython/html/thinkpython018.html#toc182)
+- [Dive into Python 3 on objects](http://www.diveintopython3.net/your-first-python-program.html#everythingisanobject)
+- [More Dive into Python 3 on objects](http://www.diveintopython3.net/your-first-python-program.html#whatsanobject)
+- [Learn Python the Hard Way on OOP](https://learnpythonthehardway.org/book/ex40.html) *Note: Zed is very anti-Python 3. There are many arguments for Python 3. Please feel free to come discuss that topic with me when you get to it!*
