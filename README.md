@@ -6,6 +6,7 @@ Join our slack channels! Go to [wwc-atx.slack.com](wwc-atx.slack.com) to request
 
 ## Schedule
 
+*September 2016*: Variables<br/>
 *October 2016*: Git and GitHub<br/>
 *November 2016*: No class<br/>
 *December 2016*: No class<br/>
