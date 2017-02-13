@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.note {
+  padding: 10px 10px 10px 10px;
+  background: #eae6d1;
+  border: 1px solid #4276b6;
+  box-shadow: 0px 1px 3px #f0b500;
+}
