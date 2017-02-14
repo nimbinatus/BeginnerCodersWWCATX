@@ -19,7 +19,7 @@ who wants to understand their code.
 When your code raises an error, the interpreter (in your terminal) displays a
 *stack trace*.
 
-Want to see one live? Check out the [errors Juypter notebook](../examples/errors.ipynb)
+Want to see one live? Check out the [errors Juypter notebook](https://nbviewer.jupyter.org/github/nimbinatus/BeginnerCodersWWCATX/blob/gh-pages/examples/errors.ipynb)
 for interactive code.
 
 ## Python Koans
