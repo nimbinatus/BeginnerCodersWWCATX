@@ -6,7 +6,7 @@ meetup for Women Who Code ATX.
 Join our slack channels! Go to [wwc-atx.slack.com](wwc-atx.slack.com) to request
 access. We are in #python-beginners.
 
-Need to install Python? Check out our [guide](install.md)
+Need to install Python? Check out our [guide](install.md).
 
 ## Schedule
 
