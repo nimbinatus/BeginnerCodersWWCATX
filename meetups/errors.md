@@ -16,6 +16,11 @@ who wants to understand their code.
 
 ## The stack trace
 
+When your code raises an error, the interpreter (in your terminal) displays a
+*stack trace*.
+
+Want to see one live? Check out the [errors Juypter notebook](../examples/errors.ipynb)
+for interactive code.
 
 ## Python Koans
 
@@ -24,3 +29,7 @@ the same time is to run the Python Koans.
 
 Install them through
 [this handy dandy link](https://github.com/gregmalcolm/python_koans).
+
+## References
+
+[The official docs](https://docs.python.org/3/library/exceptions.html)
