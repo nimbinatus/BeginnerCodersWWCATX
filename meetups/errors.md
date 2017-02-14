@@ -18,3 +18,6 @@ who wants to understand their code.
 
 
 ## Python Koans
+
+A great way to learn more about errors and stack traces *and* learn Python at
+the same time is to run the Python Koans.

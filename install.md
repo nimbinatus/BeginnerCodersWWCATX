@@ -11,7 +11,7 @@ you need to install Python manually.
 
 1. Select Python 3.x or Python 2.x.
 
-    <div class="note">**Note:** I recommend Python 3.x.</div>
+  <div class="note">**Note:** I recommend Python 3.x.</div>
 
 1. Run the installer. Ensure it installs to `C:/Python` with a string of numbers
    that indicate the version. For example, if you download Python 3.5, you would
