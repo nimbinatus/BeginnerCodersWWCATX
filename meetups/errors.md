@@ -21,3 +21,6 @@ who wants to understand their code.
 
 A great way to learn more about errors and stack traces *and* learn Python at
 the same time is to run the Python Koans.
+
+Install them through
+[this handy dandy link](https://github.com/gregmalcolm/python_koans).
