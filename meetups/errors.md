@@ -6,10 +6,10 @@ _A Primer for Women Who Code ATX_
 
 ## Errors in Python
 
-As a feature of its design, Python does not let errors pass silently. That means
-that whenever the Python interpreter encounters an error, it will tell you and
-stop trying to run the code. This feature can be very useful for the beginner
-who wants to understand their code.
+As a feature of its design, Python does not let errors (or exceptions) pass
+silently. That means that whenever the Python interpreter encounters an error,
+it will tell you and stop trying to run the code. This feature can be very
+useful for the beginner who wants to understand their code.
 
 ## The stack trace
 
@@ -56,6 +56,18 @@ understand where things are headed:
 In this example, the variable `apple` was used on line 7 before it was defined
 in the code. To fix this error, you need to define `apple` before line 7.
 
+## A note on terminology and our approach
+
+In Python, errors fall under a category called _exceptions_. I'm using the two
+interchangeably here as, at this stage of the game, they are virtually the same.
+There are exceptions that are not errors, but we are going to ignore that in
+interest of readability here.
+
+Also, remember that we are talking about beginner code. Eventually, you may not
+want your user to get an full debugging error when they run the code, or you may
+want to avoid having your program stop completely when an error is hit. That's
+going to be up to you in your design choices.
+
 ## Python Koans
 
 A great way to learn more about errors and stack traces _and_ learn Python at
@@ -70,3 +82,5 @@ Install them through
 -   [A lovely flowchart for errors](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
 -   [A great chart of errors if the official docs are too much](https://www.tutorialspoint.com/python/standard_exceptions.htm)
 -   [Think Like a Computer Scientist on errors in code](https://interactivepython.org/courselib/static/thinkcspy/Debugging/KnowyourerrorMessages.html)
+-   [A Byte of Python on exceptions](https://python.swaroopch.com/exceptions.html)
+-   [Dive into Python 3 on exceptions](http://www.diveintopython3.net/your-first-python-program.html#exceptions)
