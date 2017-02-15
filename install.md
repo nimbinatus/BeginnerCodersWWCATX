@@ -1,3 +1,5 @@
+[Back to the index](/BeginnerCodersWWCATX)
+
 # Installing Python
 
 If you need to install Python, here are some handy-dandy tips and links.
