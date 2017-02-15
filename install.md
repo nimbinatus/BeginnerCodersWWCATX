@@ -12,11 +12,11 @@ you need to install Python manually.
 1.  Select Python 3.x or Python 2.x.
 
     <div class="note">**Note:** I recommend Python 3.x.</div>
-    <p></p>
+    <br/>
 
-1.  Run the installer. Ensure it installs to `C:/Python` with a string of numbers
-   that indicate the version. For example, if you download Python 3.5, you would
-   see the path as `C:/Python35`.
+1.  Run the installer. Ensure it installs to `C:/Python` with a string of
+    numbers that indicate the version. For example, if you download Python 3.5,
+    you would see the path as `C:/Python35`.
 
 ### Set up the path for the command
 
@@ -35,6 +35,7 @@ PowerShell.
 1.  Test your system by running the following command in PowerShell.
 
         python -V
+
 
 ## MacOS
 
@@ -60,6 +61,7 @@ Homebrew.
 
         $ brew update
         $ brew install python3
+
 
     To install Python 2 instead of Python 3, use `brew install python2` instead.
 
