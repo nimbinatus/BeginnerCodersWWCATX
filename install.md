@@ -11,7 +11,7 @@ you need to install Python manually.
 
 1.  Select Python 3.x or Python 2.x.
 
-    <div class="note">**Note:** I recommend Python 3.x.</div>
+    <div class="note"><span class="note-text">Note:</span> I recommend Python 3.x.</div>
     <br/>
 
 1.  Run the installer. Ensure it installs to `C:/Python` with a string of
