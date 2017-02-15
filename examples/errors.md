@@ -2,7 +2,9 @@
 
 [Return to the notes](../meetups/errors.md)
 
-    >>>
-    >>>
+## `SyntaxError`
 
-    
+Save this code to a file and run it.
+
+    >>>
+    >>>
