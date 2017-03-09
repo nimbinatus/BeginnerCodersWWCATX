@@ -5,7 +5,8 @@
 -   Decorators
 -   Design patterns
 -   Python 2 vs 3
--   REST programming
+-   RESTful programming
 -   Iterative vs inclusive
 -   Functional vs OOO
--   Testing in Python
+-   Testing in Python (requested)
+-   Iteration Frequency (Agile, Spiral, and Waterfall) and Methodologies (Scrum, Kanban, and Lean)
