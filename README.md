@@ -20,5 +20,5 @@ Need to install Python? Check out our [guide](install.md).
 *January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
 *February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
 *March 2017*: Cancelled due to SXSW<br/>
-*April 2017*: [Extending your code through pip, easy_install, and packages](meetups/packages.md)
+*April 2017*: [Extending your code through pip, easy_install, and packages](meetups/packages.md)<br/>
 *May 2017*: **(tentative)** Virtual environments and how to use them
