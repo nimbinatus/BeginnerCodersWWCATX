@@ -13,11 +13,11 @@ Need to install Python? Check out our [guide](install.md).
 
 ## Schedule
 
-*May 2017*: **(tentative)** Virtual environments and how to use them
+*May 2017*: **(tentative)** Virtual environments and how to use them<br/>
 *April 2017*: [Using pip, easy_install, and packages](meetups/packages.md)<br/>
 *March 2017*: Cancelled due to SXSW<br/>
 *February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
-*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
+*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)
 
 ### 2016
 
