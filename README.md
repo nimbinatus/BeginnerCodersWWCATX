@@ -3,8 +3,11 @@
 This set of pages hosts the meeting notes for the beginning coder (Python-based)
 meetup for Women Who Code ATX.
 
-Join our slack channels! Go to [wwc-atx.slack.com](https://wwc-atx.slack.com/) to request
-access. We are in #python-beginners.
+Join our slack channels! Go to [wwc-atx.slack.com](https://wwc-atx.slack.com/)
+to request access. We are in #python-beginners.
+
+Have a topic you want to hear about? Feel free to comment in #python-beginners.
+Here's a current [list of potential topics](meetups/potentialTopics.md).
 
 Need to install Python? Check out our [guide](install.md).
 
@@ -16,4 +19,6 @@ Need to install Python? Check out our [guide](install.md).
 *December 2016*: No class<br/>
 *January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
 *February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
-*March 2017*: TBD
+*March 2017*: Cancelled due to SXSW<br/>
+*April 2017*: [Extending your code through pip, easy_install, and packages](meetups/packages.md)
+*May 2017*: **(tentative)** Virtual environments and how to use them
