@@ -6,12 +6,12 @@ _A Primer for Women Who Code ATX_
 
 ## Packages
 
-First, a *module* in Python is a collection of functions (or methods, if you
+First, a _module_ in Python is a collection of functions (or methods, if you
 want to get fancy), variable definitions, and classes. As noted in the
 [Python Packaging docs](https://packaging.python.org/glossary/), it's a "basic
-unit of code reusability" for Python. *Packages* are collections of Python modules
-and other files that collectively make up a released bit of software. You can
-think of them as Python building blocks.
+unit of code reusability" for Python. _Packages_ are collections of Python
+modules and other files that collectively make up a released bit of software.
+You can think of them as Python building blocks.
 
 ## Pip and easy_install
 
@@ -42,9 +42,9 @@ and no one really uses easy_install any longer. Pip showed up four years or so
 after easy_install, so there are some things that it was designed for that
 people saw as flaws with easy_install.
 
-Easy_install takes an *egg*, or a boxed up version of a package that can be
+Easy_install takes an _egg_, or a boxed up version of a package that can be
 either unzipped and installed or run directly in the interpreter, as input. Pip,
-on the other hand, takes a *wheel*, or a zipped package with metadata attached,
+on the other hand, takes a _wheel_, or a zipped package with metadata attached,
 as input. Both of them use setuptools under the hood in one form or another to
 take those inputs and install them.
 

@@ -13,12 +13,14 @@ Need to install Python? Check out our [guide](install.md).
 
 ## Schedule
 
-*September 2016*: Variables<br/>
-*October 2016*: Git and GitHub<br/>
-*November 2016*: No class<br/>
-*December 2016*: No class<br/>
-*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
-*February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
-*March 2017*: Cancelled due to SXSW<br/>
-*April 2017*: [Using pip, easy_install, and packages](meetups/packages.md)<br/>
 *May 2017*: **(tentative)** Virtual environments and how to use them
+*April 2017*: [Using pip, easy_install, and packages](meetups/packages.md)<br/>
+*March 2017*: Cancelled due to SXSW<br/>
+*February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
+*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
+
+### 2016
+
+*November and December 2016*: No class, holiday break<br/>
+*October 2016*: Git and GitHub (notes coming soon)<br/>
+*September 2016*: Variables (notes coming soon)<br/>
