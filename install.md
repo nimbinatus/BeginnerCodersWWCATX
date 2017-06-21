@@ -14,11 +14,20 @@ you need to install Python manually.
     <div class="note"><span class="note-text">Note:</span> I recommend Python 3.x.</div>
     <br/>
 
-1.  Run the installer. Ensure it installs to `C:/Python` with a string of
-    numbers that indicate the version. For example, if you download Python 3.5,
-    you would see the path as `C:/Python35`.
+1.  Open the installer.
 
-### Set up the path for the command
+1.  On the install screen, check the last two boxes on the installer window.
+
+    [Image of the Windows installer with two checkboxes at the bottom and a black star next to the last checkbox that reads "Add Python 3.5 to PATH"](assets/img/win_installer.png)
+
+    <div class="note"><span class="note-text">Important:</span> Don't miss the last box, marked here with a black star!</div>
+    <br/>
+
+1.  Once installation completes, open PowerShell and run the following command:
+
+        python -V
+
+<!-- ### Set up the path for the command
 
 You aren't done! You need to set everything up so when you type `python` into
 a command line client, you will get the expected output. To do this next set of
@@ -35,7 +44,7 @@ PowerShell.
 1.  Test your system by running the following command in PowerShell.
 
         python -V
-
+ -->
 
 ## MacOS
 
