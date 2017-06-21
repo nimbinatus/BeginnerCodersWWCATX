@@ -15,7 +15,7 @@ Need to install Python? Check out our [guide](install.md).
 
 ### Upcoming
 
-*June 2017*: **(tentative)** Virtual environments and how to use them<br/>
+*July 2017*: **(tentative)** Virtual environments and how to use them<br/>
 *June 2017*: **(tentative)** [Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
 
 ### Archive

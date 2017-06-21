@@ -18,7 +18,7 @@ you need to install Python manually.
 
 1.  On the install screen, check the last two boxes on the installer window.
 
-    [Image of the Windows installer with two checkboxes at the bottom and a black star next to the last checkbox that reads "Add Python 3.5 to PATH"](assets/img/win_installer.png)
+    ![Image of the Windows installer with two checkboxes at the bottom and a black star next to the last checkbox that reads "Add Python 3.5 to PATH"](assets/img/win_installer.png)
 
     <div class="note"><span class="note-text">Important:</span> Don't miss the last box, marked here with a black star!</div>
     <br/>
