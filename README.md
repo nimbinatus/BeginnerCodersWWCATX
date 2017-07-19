@@ -15,16 +15,18 @@ Need to install Python? Check out our [guide](install.md).
 
 ### Upcoming
 
-*July 2017*: **(tentative)** Virtual environments and how to use them<br/>
-*June 2017*: **(tentative)** [Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
+*September 2017*: **(tentative)** Virtual environments and how to use them<br/>
+*August 2017*: **(tentative)** [Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
+*July 2017*: **(tentative)** Variables (notes coming soon)<br/>
 
 ### Archive
 
+*June 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
 *May 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
 *April 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
 *March 2017*: Cancelled due to SXSW<br/>
 *February 2017*: [Using Errors to Fix Your Code](meetups/errors.md)<br/>
-*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)
+*January 2017*: [Objects and Object-Oriented Programming](meetups/objects.md)<br/>
 *November and December 2016*: No class, holiday break<br/>
 *October 2016*: Git and GitHub (notes coming soon)<br/>
 *September 2016*: Variables (notes coming soon)<br/>
