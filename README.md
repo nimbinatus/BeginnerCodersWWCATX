@@ -17,7 +17,7 @@ Need to install Python? Check out our [guide](install.md).
 
 *January 2018:* **(tentative)** Virtual environments and how to use them or [Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
 *November 2017, December 2017*: No meetup (holidays)<br/>
-*October 2017*: **(tentative)** Hands-on Projects! Python Koans, a beginner's challenge, or attendee choice
+*October 2017*: **(tentative)** Hands-on Projects! Python Koans, a beginner's challenge (with guidance), or attendee choice
 
 ### Archive
 
