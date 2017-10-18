@@ -15,13 +15,15 @@ Need to install Python? Check out our [guide](install.md).
 
 ### Upcoming
 
-*October 2017*: **(tentative)** Virtual environments and how to use them or[Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
-*September 2017*: No meetup<br/>
-*August 2017*: **(tentative)** Git and Collaborative Coding (or attendees' choice!)
+*January 2018:* **(tentative)** Virtual environments and how to use them or [Using pip, easy_install, and packages](meetups/packages.md) (or attendees' choice!)<br/>
+*November 2017, December 2017*: No meetup (holidays)<br/>
+*October 2017*: **(tentative)** Hands-on Projects! Python Koans, a beginner's challenge, or attendee choice
 
 ### Archive
 
-*July 2017*: **(tentative)** Variables (notes coming soon)<br/>
+*September 2017*: No meetup<br/>
+*August 2017*:  What Is Python? A Random Walk (attendees' choice discussion)<br/>
+*July 2017*: Variables (notes coming soon)<br/>
 *June 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
 *May 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
 *April 2017*: What Is Python? A Random Walk (attendees' choice discussion)<br/>
